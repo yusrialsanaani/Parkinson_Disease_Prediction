@@ -40,17 +40,19 @@ The dataset used in this project is Parkinsons Data Set taken from https://archi
 - **Artificial Neural network**
 
 ## Models Evaluation and Comparison
-Comparison of models performance in terms of the following criteria: precision, recall, accuracy, and F-measure.
+- Comparison of models performance in terms of the following criteria: precision, recall, accuracy, and F-measure.
+- In all terms, XGB model was able to achieve the highest values.
 
-![image](https://user-images.githubusercontent.com/89004966/166133710-58d69269-622f-45f8-87dc-3a46ad2445e4.png)
+![image](https://user-images.githubusercontent.com/89004966/166134833-31f518c9-28c7-4579-89fb-be1872601c05.png)
 
-![image](https://user-images.githubusercontent.com/89004966/166133712-bf2282f7-6ddd-4e08-8793-7b4da4d979c1.png)
+![image](https://user-images.githubusercontent.com/89004966/166134836-018db7a5-4c67-4931-8792-0665740f249a.png)
 
-![image](https://user-images.githubusercontent.com/89004966/166133716-e37634d9-fe0b-4f03-95a2-8f279dc7a00a.png)
+![image](https://user-images.githubusercontent.com/89004966/166134839-60c2266b-9608-46bf-8a33-2c561ce4d15e.png)
 
-![image](https://user-images.githubusercontent.com/89004966/166133717-f4cf2a62-e251-4fa2-9808-1f061157ea30.png)
+![image](https://user-images.githubusercontent.com/89004966/166134841-c1da838f-8229-4e6c-8c36-82e029d33748.png)
 
-![image](https://user-images.githubusercontent.com/89004966/166133719-1ed16a7f-c239-4b0d-9b40-16dfa5ba7c6b.png)
+![image](https://user-images.githubusercontent.com/89004966/166134846-1d3cc785-cc68-4697-b0a8-6d61c450f015.png)
+
 
 
 
