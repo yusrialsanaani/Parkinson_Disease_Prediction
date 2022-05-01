@@ -28,16 +28,16 @@ The dataset used in this project is Parkinsons Data Set taken from https://archi
 - Check class imbalance and treat it using oversampling technique.
 - Normalize the dataset.
 - Encode the categorical variables if exist.
-
-## Machine Learning Algorithms:
-- KNN (K-Nearest Neighbours)
-- Support vector machines (SVM)
-- Decision Tree (DT)
-- XGboost classifiers
-- Ensemble Method:
-  - Ensemble Hard Voting (EHV)
-  - Ensemble Soft Voting (ESV) using a majority voting approach to predict class label using KNN (k=5), SVM (kernel = rbf), DT (with optimal tree), and XGboost classifiers based on a soft voting.
-- Artificial Neural network
+## Model Development
+- **Machine Learning Algorithms**:
+  - KNN (K-Nearest Neighbours)
+  - Support vector machines (SVM)
+  - Decision Tree (DT)
+  - XGboost classifiers
+  - Ensemble Method:
+    - Ensemble Hard Voting (EHV)
+    - Ensemble Soft Voting (ESV) using a majority voting approach to predict class label using KNN (k=5), SVM (kernel = rbf), DT (with optimal tree), and XGboost classifiers based on a soft voting.
+- **Artificial Neural network**
 
 ## Models Evaluation and Comparison
 Comparison of models performance in terms of the following criteria: precision, recall, accuracy, and F-measure.
