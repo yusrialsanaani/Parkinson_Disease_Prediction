@@ -43,6 +43,19 @@ The dataset used in this project is Parkinsons Data Set taken from https://archi
 - Comparison of models performance in terms of the following criteria: precision, recall, accuracy, and F-measure.
 - In all terms, XGB model was able to achieve the highest values.
 
+**Abbreviations**:
+    
+>**EHV:** Ensemble Hard Voting
+
+>**ESV:** Ensemble Soft Voting
+
+>**ANN:** Artificial Neural Network
+
+>**XGB:** Extreme Gradient Boosting
+
+>**RFC:** Random Forest Classifier
+
+
 ![image](https://user-images.githubusercontent.com/89004966/166134833-31f518c9-28c7-4579-89fb-be1872601c05.png)
 
 ![image](https://user-images.githubusercontent.com/89004966/166134836-018db7a5-4c67-4931-8792-0665740f249a.png)
