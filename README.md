@@ -1,5 +1,5 @@
 # Parkinson Disease Prediction
-The goal of this project is to predict the Parkinson's Disease using different machine learning algorithms and then compare thier performance.
+The goal of this project is to predict the Parkinson's Disease using different machine learning algorithms and then compare thier performance using different classification metrics.
 ## Libraries used:
 - NumPy, Panadas, matplptlib, seaborn
 - sklearn
@@ -15,20 +15,19 @@ The dataset used in this project is Parkinsons Data Set taken from https://archi
 - There are a total of 195 rows. Moreover, the dataset has been created from a measure of dysphonia and pitch period entropy.
 
 
-## Data Preprocessing:
-- Check and treat the null and missing values and treatment them.
-- Check and treat the duplicates.
-- Check and treat the outliers using Inter-Quartile Range (IQR).
-- Check class imbalance and treat it using oversampling technique.
-- Normalize the dataset.
-- Encode the categorical variables if exist.
-
 ## Exploratory Data Analysis (EDA)
 - Univariate Analysis 
   - Histogram & Boxplot
 - Bivariate analysis
 - Maultivariate analysis
   - Correlations between all the features.
+## Data Preprocessing and Feature Engineering:
+- Check and treat the null and missing values and treatment them.
+- Check and treat the duplicates.
+- Check and treat the outliers using Inter-Quartile Range (IQR).
+- Check class imbalance and treat it using oversampling technique.
+- Normalize the dataset.
+- Encode the categorical variables if exist.
 
 ## Machine Learning Algorithms:
 - KNN (K-Nearest Neighbours)
@@ -41,7 +40,7 @@ The dataset used in this project is Parkinsons Data Set taken from https://archi
 - Artificial Neural network
 
 ## Models Evaluation and Comparison
-Comparison of  the performance of the used models model in terms of the following criteria: precision, recall, accuracy, F-measure.
+Comparison of models performance in terms of the following criteria: precision, recall, accuracy, and F-measure.
 
 ![image](https://user-images.githubusercontent.com/89004966/166133710-58d69269-622f-45f8-87dc-3a46ad2445e4.png)
 
